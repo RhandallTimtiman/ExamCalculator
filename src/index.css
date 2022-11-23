@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.zero-button {
+	grid-column: span 2 / span 2;
+}
